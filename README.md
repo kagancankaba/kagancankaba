@@ -36,7 +36,3 @@ Here are some highlights from my work:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kagancankaba-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kagancankaba/)
 [![Gmail](https://img.shields.io/badge/Gmail-kagancankaba@gmail.com-red?style=flat&logo=gmail)](mailto:kagancankaba@gmail.com)
-
-## GitHub Stats
-
-![Kağan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kagancankaba&show_icons=true&hide_border=true)
