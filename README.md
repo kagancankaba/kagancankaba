@@ -1,6 +1,6 @@
 # Kağan Can Kaba
 
-Computer Engineering student at Kocaeli University with a strong interest in computer vision, deep learning, reinforcement learning, robotics, mobile development, and game development.
+Computer Engineering student at Kocaeli University with interests in computer vision, deep learning, reinforcement learning, robotics, mobile development, and game development.
 
 ## About Me
 
