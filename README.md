@@ -5,7 +5,7 @@ Computer Engineering student at Kocaeli University with interests in computer vi
 ## About Me
 
 - 🎓 Computer Engineering @ Kocaeli University
-- 🤖 Interested in AI, mobile development and robotics 
+- 🤖 Interested in AI, robotics, and mobile development
 - 📫 kagancankaba@gmail.com
 
 ## Tech Stack
@@ -17,7 +17,7 @@ Python · Java · C · C# · Dart · MATLAB
 Flutter · Unity · ROS · OpenCV · TensorFlow · NumPy · Gymnasium
 
 **Databases & Other**
-MySQL · MongoDB · Git · Android SDK
+MongoDB · Git · Android SDK
 
 ## Projects
 
