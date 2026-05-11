@@ -4,9 +4,8 @@ Computer Engineering student at Kocaeli University with hands-on experience acro
 
 ## About Me
 
-- 🎓 Computer Engineering @ Kocaeli University (graduating 2025)
-- 🤖 Interested in robotics, AI, and mobile development
-- 🌱 Currently exploring Flutter and ROS
+- 🎓 Computer Engineering @ Kocaeli University
+- 🤖 Interested in AI, mobile development and robotics 
 - 📫 kagancankaba@gmail.com
 
 ## Tech Stack
@@ -18,7 +17,7 @@ Python · Java · C · C# · Dart · MATLAB
 Flutter · Unity · ROS · OpenCV · TensorFlow · NumPy · Gymnasium
 
 **Databases & Other**
-MongoDB · Git · Android SDK
+MySQL · MongoDB · Git · Android SDK
 
 ## Projects
 
