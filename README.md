@@ -1,6 +1,6 @@
 # Kağan Can Kaba
 
-Computer Engineering student at Kocaeli University with hands-on experience across a wide range of domains including computer vision, deep learning, reinforcement learning, robotics, mobile development, and game development.
+Computer Engineering student at Kocaeli University with a strong interest in computer vision, deep learning, reinforcement learning, robotics, mobile development, and game development.
 
 ## About Me
 
@@ -36,3 +36,7 @@ Here are some highlights from my work:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kagancankaba-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kagancankaba/)
 [![Gmail](https://img.shields.io/badge/Gmail-kagancankaba@gmail.com-red?style=flat&logo=gmail)](mailto:kagancankaba@gmail.com)
+
+## GitHub Stats
+
+![Kağan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kagancankaba&show_icons=true&theme=dark)
