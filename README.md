@@ -39,4 +39,4 @@ Here are some highlights from my work:
 
 ## GitHub Stats
 
-![Kağan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kagancankaba&show_icons=true&theme=dark)
+![Kağan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kagancankaba&show_icons=true&hide_border=true)
