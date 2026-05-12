@@ -22,14 +22,13 @@ MongoDB · Git · Android SDK
 
 Here are some highlights from my work:
 
-- **Harris Corner Detection** — Implemented from scratch using NumPy and OpenCV
-- **Fashion MNIST MLP** — Neural network built from scratch, ~86% accuracy
-- **Q-Learning FrozenLake** — RL agent trained on 8×8 environment with epsilon-greedy exploration
-- **LIDAR Scan Processing** — Point cloud processing and line detection in C
-- **Multi-Robot Fleet Manager** — A*, Dijkstra, PRM path planning with deadlock management in MATLAB
-- **Cyber Assault** — Tower defense game built in Unity with OOP principles
 - **Word Crush** — Turkish word puzzle mobile game built with Flutter
+- **Cyber Assault** — Tower defense game built in Unity with OOP principles
+- **Fashion MNIST MLP** — Neural network built from scratch, ~86% accuracy
+- **Harris Corner Detection** — Implemented from scratch using NumPy and OpenCV
 - **Kocaeli News Map** — Web scraper with NLP classification and Google Maps visualization
+- **Multi-Robot Fleet Manager** — A*, Dijkstra, PRM path planning with deadlock management in MATLAB
+- **LIDAR Scan Processing** — Point cloud processing and line detection in C
 
 ## Connect
 
