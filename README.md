@@ -6,7 +6,6 @@ Computer Engineering student at Kocaeli University with interests in computer vi
 
 - Computer Engineering @ Kocaeli University
 - Interested in Computer Vision, AI, robotics, and mobile development
-- kagancankaba@gmail.com
 
 ## Tech Stack
 
