@@ -34,4 +34,3 @@ Here are some highlights from my work:
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kagancankaba-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kagancankaba/)
-[![Gmail](https://img.shields.io/badge/Gmail-kagancankaba@gmail.com-red?style=flat&logo=gmail)](mailto:kagancankaba@gmail.com)
